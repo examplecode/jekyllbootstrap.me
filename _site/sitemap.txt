@@ -1,0 +1,13 @@
+
+http://examplecode.github.io/about.html
+http://examplecode.github.io/archive.html
+http://examplecode.github.io/atom.xml
+http://examplecode.github.io/categories.html
+http://examplecode.github.io/index.html
+http://examplecode.github.io/pages.html
+http://examplecode.github.io/rss.xml
+http://examplecode.github.io/sitemap.txt
+http://examplecode.github.io/tags.html
+
+http://examplecode.github.io/2014/06/15/hijekyll
+http://examplecode.github.io/lessons/2011/12/29/jekyll-introduction
