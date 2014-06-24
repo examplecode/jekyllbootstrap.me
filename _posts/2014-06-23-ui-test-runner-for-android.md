@@ -12,11 +12,18 @@ tags: [android,单元测试,UI,tools]
 题的，其实他就是你需要的那个很小的demo,只是他更加方便的以类似JUnitTest的方式把你的所有用例组织起来（你只要写一个以“test"开头的方法即可），并且把这些用例以列表的方式显示出来，测试其中一个用例，只需要点击列表项即可。
 
 
+**源码地址:**[https://github.com/examplecode/android-ui-test-runner](https://github.com/examplecode/android-ui-test-runner) 
+
+
 <img  style="float:left" src="/images/UITestRnnner-TestSuite.png" alt="测试套件列表" title="测试套件列表" width="300" />
 
 
 <img src="/images/UITestRunner-testCase.png" alt="测试用例列表" title="测试用例列表" width="300" />
 
+
+
+
+----------
 
 
 ## 在你的项目中使用UITestRunner

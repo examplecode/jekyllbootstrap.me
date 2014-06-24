@@ -11,18 +11,16 @@
       {{ content }}
     </div>
 
-    
-      <!-- Related Posts -->
-      <hr>
+    <hr>
+
       <h4>Related Posts</h4>
       <ul>
         {% for post in site.related_posts limit:5 %}
         <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
       </ul>
-      <!-- End of Posts -->
-      
-      <hr>
+
+
   {% unless page.categories == empty %}
     <ul class="tag_box inline">
       <li><i class="icon-folder-open"></i></li>
